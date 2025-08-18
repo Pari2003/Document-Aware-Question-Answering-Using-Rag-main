@@ -1,0 +1,6 @@
+ollama==0.4.8
+chromadb==1.0.7
+streamlit==1.45.0
+semantic-text-splitter==0.25.1
+unstructured[all-docs]
+python-magic-bin==0.4.14

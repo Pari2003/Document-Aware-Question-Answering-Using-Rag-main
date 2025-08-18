@@ -1,0 +1,9 @@
+1. Unzip the zipped project file into your main work-directory
+
+2. Install all the dependencies listed in the requirements.txt file using pip install -r requirements.txt
+
+3. Download a release version of poppler from https://github.com/oschwartz10612/poppler-windows and add poppler-version\Library\bin to system environment path variables
+
+4. Download a release version of Tesseract OCR from https://tesseract-ocr.github.io/ and add Tesseract-OCR to system environment path variables
+
+5. Use the command streamlit run main.py to execute the code
